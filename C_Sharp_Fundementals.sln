@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Fundementals", "C_Sharp_Fundementals\C_Sharp_Fundementals.csproj", "{82ED69A2-D922-4145-BA6B-E7208AC883F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "C_Sharp_Fundementals\CSharpFundamentals.csproj", "{82ED69A2-D922-4145-BA6B-E7208AC883F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

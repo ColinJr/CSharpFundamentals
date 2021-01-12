@@ -1,8 +1,8 @@
-﻿using System
+using System
 
 namespace CSharpFundamentals
 {
-    public class person
+	public class person
     {
         public string FirstName;
         public string LastName;
