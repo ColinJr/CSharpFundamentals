@@ -37,7 +37,8 @@ namespace CSharp1Exercises.ArraysAndLists
                 Console.WriteLine();
         }
 
-        //2- Write a program and ask the user to enter their name. Use an array to reverse the name and then store the result in a new string.Display the reversed name on the console.
+        //2- Write a program and ask the user to enter their name. 
+        //Use an array to reverse the name and then store the result in a new string.Display the reversed name on the console.
 
         public void Exercise2()
         {
@@ -52,7 +53,9 @@ namespace CSharp1Exercises.ArraysAndLists
             Console.WriteLine("Reversed name: " + reversed);
         }
 
-        //3- Write a program and ask the user to enter 5 numbers. If a number has been previously entered, display an error message and ask the user to re-try. Once the user successfully enters 5 unique numbers, sort them and display the result on the console.
+        //3- Write a program and ask the user to enter 5 numbers.
+        //If a number has been previously entered, display an error message and ask the user to re-try. 
+        //Once the user successfully enters 5 unique numbers, sort them and display the result on the console.
 
         public void Exercise3()
         {
@@ -77,7 +80,8 @@ namespace CSharp1Exercises.ArraysAndLists
                 Console.WriteLine(number);
         }
 
-        //4- Write a program and ask the user to continuously enter a number or type "Quit" to exit. The list of numbers may include duplicates. Display the unique numbers that the user has entered.
+        //4- Write a program and ask the user to continuously enter a number or type "Quit" to exit. 
+        //The list of numbers may include duplicates. Display the unique numbers that the user has entered.
         public void Exercise4()
         {
             var numbers = new List<int>();
@@ -105,7 +109,8 @@ namespace CSharp1Exercises.ArraysAndLists
                 Console.WriteLine(number);
         }
 
-        //5- Write a program and ask the user to supply a list of comma separated numbers (e.g 5, 1, 9, 2, 10). If the list is empty or includes less than 5 numbers, display "Invalid List" and ask the user to re-try; otherwise, display the 3 smallest numbers in the list.
+        //5- Write a program and ask the user to supply a list of comma separated numbers (e.g 5, 1, 9, 2, 10). 
+        //If the list is empty or includes less than 5 numbers, display "Invalid List" and ask the user to re-try; otherwise, display the 3 smallest numbers in the list.
 
         public void Exercise5()
         {
